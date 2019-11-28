@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.testing.sample.SampleUtilTest" time="0.123" tests="2" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="9"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\MySampleMavenProject\target\test-classes;C:\MySampleMavenProject\target\classes;C:\Users\s_ari\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\s_ari\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Europe/Athens"/>
+    <property name="user.country.format" value="GR"/>
+    <property name="java.vm.specification.version" value="9"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-9.0.1\bin"/>
+    <property name="sun.java.command" value="C:\Users\s_ari\AppData\Local\Temp\surefire11243337837550601051\surefirebooter4703148601200921781.jar C:\Users\s_ari\AppData\Local\Temp\surefire11243337837550601051 2019-11-29T00-14-29_955-jvmRun1 surefire6592571454262196594tmp surefire_0929961693842160148tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\MySampleMavenProject\target\test-classes;C:\MySampleMavenProject\target\classes;C:\Users\s_ari\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\s_ari\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\s_ari"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-9.0.1"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\MySampleMavenProject"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\s_ari\AppData\Local\Temp\surefire11243337837550601051\surefirebooter4703148601200921781.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="9.0.1+11"/>
+    <property name="user.name" value="s_ari"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\s_ari\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\s_ari\AppData\Local\Temp\"/>
+    <property name="java.version" value="9.0.1"/>
+    <property name="user.dir" value="C:\MySampleMavenProject"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="user.language.format" value="el"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-9.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\PROGRAM FILES\DELL\DW WLAN CARD;C:\PROGRAMDATA\ORACLE\JAVA\JAVAPATH;C:\PROGRAM FILES (X86)\INTEL\ICLS CLIENT\;C:\PROGRAM FILES\INTEL\ICLS CLIENT\;C:\WINDOWS\SYSTEM32;C:\WINDOWS;C:\WINDOWS\SYSTEM32\WBEM;C:\WINDOWS\SYSTEM32\WINDOWSPOWERSHELL\V1.0\;C:\PROGRAM FILES (X86)\INTEL\INTEL(R) MANAGEMENT ENGINE COMPONENTS\DAL;C:\PROGRAM FILES\INTEL\INTEL(R) MANAGEMENT ENGINE COMPONENTS\DAL;C:\PROGRAM FILES (X86)\INTEL\INTEL(R) MANAGEMENT ENGINE COMPONENTS\IPT;C:\PROGRAM FILES\INTEL\INTEL(R) MANAGEMENT ENGINE COMPONENTS\IPT;C:\PROGRAM FILES (X86)\NVIDIA CORPORATION\PHYSX\COMMON;;C:\WINDOWS\SYSTEM32;C:\WINDOWS;C:\WINDOWS\SYSTEM32\WBEM;C:\WINDOWS\SYSTEM32\WINDOWSPOWERSHELL\V1.0\;C:\USERS\S_ARI\DOWNLOADS\MYSQL-5.7.11-WINX64\BIN;C:\PROGRAM FILES\MYSQL\MYSQL SERVER 5.7\BIN;C:\MAVEN\APACHE-MAVEN-3.3.9\BIN;C:\JENKINS;C:\PROGRAM FILES\DOTNET\;C:\WINDOWS\SYSTEM32\OPENSSH\;C:\PROGRAM FILES (X86)\MICROSOFT VS CODE\BIN;C:\XAMPP\PHP;C:\COMPOSER;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Ruby25-x64\bin;C:\Ruby24-x64\bin;C:\Users\s_ari\AppData\Local\Microsoft\WindowsApps;C:\Users\s_ari\AppData\Local\atom\bin;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Program Files\Heroku\bin;C:\Users\s_ari\AppData\Local\GitHubDesktop\bin;C:\Users\s_ari\AppData\Local\Microsoft\WindowsApps;C:\Users\s_ari\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\s_ari\AppData\Roaming\npm;C:\Users\s_ari\AppData\Roaming\Composer\vendor\bin;C:\Program Files\Java\jdk-9.0.1\bin;C:\Users\s_ari\Downloads\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="9.0.1+11"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="53.0"/>
+  </properties>
+  <testcase name="testAdd" classname="com.testing.sample.SampleUtilTest" time="0.022"/>
+  <testcase name="testAdd1" classname="com.testing.sample.SampleUtilTest" time="0"/>
+</testsuite>
